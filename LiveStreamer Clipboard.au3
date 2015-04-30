@@ -1,0 +1,1 @@
+Run("livestreamer " & ClipGet() & " best") ; ClipGet() -> Get clipboard (Paste)
